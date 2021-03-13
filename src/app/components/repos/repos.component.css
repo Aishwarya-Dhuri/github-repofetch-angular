@@ -1,0 +1,7 @@
+.list-group{
+    margin-bottom: 20px;
+    border-radius: 0;
+}
+.list-group:last-child{
+    margin-bottom: 70px;
+}
